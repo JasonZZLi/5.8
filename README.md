@@ -20,3 +20,6 @@ while(1)
   printf('大了');
   printf(f'1-b');
  }
+kjgfkhfjhfjhfhv
+hggfhjfhg
+ufuufg
